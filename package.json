@@ -1,0 +1,21 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "description": "A simple blog api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Dhariyal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "helmet": "^3.15.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.15",
+    "pino": "^5.11.1",
+    "short-id": "0.1.0-1"
+  }
+}
